@@ -15,14 +15,7 @@
         "https://cdn.dummyjson.com/product-images/3/1.jpg"
       ]
     },
-    {
-      "title": "OPPOF19 try 55550",
-      "price": 280,
-      "category": "smartphones",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-      "id": "4"
-    },
+    
     {
       "id": "7",
       "title": "Samsung Galaxy Book",
@@ -171,14 +164,7 @@
         "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
       ]
     },
-    {
-      "title": "Eau De Perfume Spray999",
-      "price": 30,
-      "category": "fragrances",
-      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
-      "thumbnail": "blob:http://localhost:3000/47c743b1-5272-47ae-9716-6877ceaee004",
-      "id": "15"
-    },
+    
     {
       "id": "16",
       "title": "Hyaluronic Acid Serum",
@@ -347,14 +333,6 @@
         "https://cdn.dummyjson.com/product-images/30/3.jpg",
         "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
       ]
-    },
-    {
-      "id": "4cbe",
-      "title": "new product",
-      "price": "100",
-      "category": "new ",
-      "description": "new product ",
-      "thumbnail": "blob:http://localhost:3000/1385ffb9-917d-4a12-aa5b-17121d181b97"
     }
   ],
   "users": [
